@@ -1,2 +1,2 @@
-# internet connection detector
+📡 Internet Connection Detector
  
